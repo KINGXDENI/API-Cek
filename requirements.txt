@@ -1,6 +1,6 @@
 Flask
 requests
 beautifulsoup4
-fake_useragent=2.1.0
+fake_useragent==2.1.0
 flask-restx
 flask-cors
